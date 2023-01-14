@@ -29,6 +29,7 @@ export const managers = [
     {
        "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "DopieDopeMan",
+       "managerID": "279654563668029440",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Mainz", // (optional)
        "bio": "Seit Anfang an dabei. Eines der Gründungsmitglieder und der Gott-Commissioner.",
@@ -51,6 +52,7 @@ export const managers = [
      {
        "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "chrizinger",
+       "managerID": "197758243047481344",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Mainz", // (optional)
        "bio": "Entweder Finale oder Loser",
@@ -73,6 +75,7 @@ export const managers = [
      {
        "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Ecki",
+       "managerID": "558424400673222656",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Mainz", // (optional)
        "bio": "Hier gibt es nicht zu erzählen, außer dass ich der erste und niemals wieder einohlbare Prämierensieger der Liga bin. Ansonsten gobt es nur zu sagen: Fuck Dallas und Go Birds",
@@ -95,6 +98,7 @@ export const managers = [
      {
        "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "bronconick72",
+       "managerID": "558653280494415872",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Rostock", // (optional)
        "bio": "Spiele seit 2016. Erst NFL Fantasy und seit 2018 in Jeden Verdammten Sonntag. Bis zur Gründung der Dynasty League auch parallel in NFL aber seitdem nur noch Sleeper.",
@@ -117,6 +121,7 @@ export const managers = [
      {
        "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "biggmag",
+       "managerID": "558928395059785728",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Mainz", // (optional)
        "bio": "Back-to-back Sieger der Liga Jeden verdammten Sonntag im Fantasy Football",
@@ -139,6 +144,7 @@ export const managers = [
      {
        "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "boesen",
+       "managerID": "560805700412952576",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Wiesbaden", // (optional)
        "bio": "GOAT",
@@ -161,6 +167,7 @@ export const managers = [
      {
        "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "DaSaz",
+       "managerID": "560811833737588736",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Mainz", // (optional)
        "bio": "Unterschätzter Underdog, der den Pokal fest im Blick hat. Egal, welchen!",
@@ -183,6 +190,7 @@ export const managers = [
      {
        "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "TeamBayPackers",
+       "managerID": "564455798316253184",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Waldalgesheim", // (optional)
        "bio": "Von Anfang an dabei. Und von Anfang an viel Pech beim draft und noch mehr bei den jeweiligen Gegnern. Oft das Glück gegen andere teams zu spielen, die ausgerechnet dann richtig abliefern... Letztes Jahr Winner der loosers round und damit diesjährigen First pick - hat nix geholfen",
@@ -205,6 +213,7 @@ export const managers = [
      {
        "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "lions50",
+       "managerID": "813483676607328256",
        "tookOver": 2022, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Dalheim", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -227,6 +236,7 @@ export const managers = [
      {
        "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "David247",
+       "managerID": "566035862595772416",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Mainz", // (optional)
        "bio": "Seit 2017 dabei. Direkt ins Finale und da gegen Bö dank Devonta Freeman verkackt. Seitdem ein auf und ab auch dank vieler Verletzungen. Zumindest das Klo konnte bisher vermieden werden. Aber dieses Jahr recht aussichtsreich dabei.",
@@ -249,6 +259,7 @@ export const managers = [
      {
        "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "SoGradSo",
+       "managerID": "711925324383866880",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Augsburg", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -271,6 +282,7 @@ export const managers = [
      {
        "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "LosTigererntos",
+       "managerID": "711922411083223040",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Berlin", // (optional)
        "bio": "Chiefs Fan, schaue fast jedes NFL Spiel inkl. Night Games, vergesse trotzdem jedes Jahr gute RBs zu draften. Kenne eigentlich nur Ecki und David Schwarz",
