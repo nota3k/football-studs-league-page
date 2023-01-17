@@ -105,7 +105,7 @@
     
     <h2 class="noUnderscore">INHALTSVERZEICHNIS</h2>
     
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(one)}>Artikel I: ENTSTEHUNG UND GÜLTIGKEIT DER CONSTITUTION</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(one)}>Artikel I: EINLEITUNG</h3>
     
     <h3 class="noUnderscore clickable" on:click={() => goToSection(two)}>Artikel II: BEGRIFFSDEFINITION</h3>
     
@@ -173,42 +173,42 @@
     
     <hr />
     
-     <h2 class="sectionHeading" bind:this={one}>Artikel 1: ENTSTEHUNG UND GÜLTIGKEIT DER CONSTITUTION</h2>
-     <p>Diese Jeden Verdammten Sonntag Fantasy League Constitution stellt eine Vereinbarung zwischen den Managern dar. Von diesen akzeptiert jeder die Regeln und Rechte dieser Vereinbarung und verpflichtet sich, alle Bedingungen zu akzeptieren und zu befolgen. Die Constitution bleibt auf unbestimmte Zeit in Kraft, mit der Ausnahme, dass die Bestimmungen von Artikel 3, Abschnitt 2 außer Kraft treten, wenn der derzeitige Commissioner sein Amt niederlegt.</p>
+     <h2 class="sectionHeading" bind:this={one}>Artikel 1: EINLEITUNG</h2>
+     <p>Diese Constitution stellt eine Vereinbarung zwischen den Managern der Liga dar. Von diesen akzeptiert jeder die Regeln und Rechte dieser Vereinbarung und verpflichtet sich, alle Vorschriften zu akzeptieren und zu befolgen. Die Constitution bleibt auf unbestimmte Zeit in Kraft. Ausnahme bildet der Artikel 3, Abschnitt 2. Sie tritt außer Kraft, wenn der derzeitige Commissioner sein Amt niederlegt.</p>
     
 
      <h2 class="sectionHeading" bind:this={two}>Artikel II: BEGRIFFSDEFINITION</h2>
      <dl>
         <dt>„Message Board“</dt>
-        <dd>bezeichnet zugleich die WhatsApp Gruppe „Jeden verdammten Sonntag“ und das Sleeper-Message Board auf  https://sleeper.app/leagues/786635113353039872.</dd>
+        <dd>bezeichnet zugleich die WhatsApp Gruppe „Jeden verdammten Sonntag“, die Website fantasyleague.me und das Sleeper-Message Board auf  https://sleeper.app/leagues/786635113353039872.</dd>
 
         <dt>„Club“</dt>
         <dd>bezeichnet eine Fantasy Football Mannschaft, die gemäß dieser Verfassung gegründet wurde.</dd>
 
         <dt>„Commissioner“</dt>
-        <dd>bezeichnet den Amtsinhaber und/oder das Amt des Commissi-oners der Liga.</dd>
+        <dd>bezeichnet den Amtsinhaber und/oder das Amt des Commissioners der Liga.</dd>
     
         <dt>„Inaktiv“</dt>
-        <dd>bezeichnet den Zustand, in dem für einen bestimmten Zeitraum alle folgenden Aktionen außer Kraft gesetzt werden: (a) Adding oder Dropping von Spielern; b) Aufstellung eines vollständigen Lineups.</dd>
+        <dd>bezeichnet folgende Aktionen, die für einen bestimmten Zeitraum außer Kraft gesetzt werden: (a) Adding oder Dropping von Spielern; b) Aufstellung eines vollständigen Lineups.</dd>
     
         <dt>„Manager“</dt>
         <dd>bezeichnet einen am Fantasy Football teilnehmenden Spieler, der befugt ist, verbindliche Entscheidungen in Bezug auf einen Club zu treffen.</dd>
     
         <dt>„Bekanntmachung“</dt>
-        <dd>bezeichnet die Veröffentlichung auf den o.g. Message Boards. Nur ein Post auf einer dieser Plattformen dient als offizielle und ausreichende Benachrichtigung des Commissioners zu jeglichen Maßnahmen. Während informelle Methoden (münd-lich, im betrunkenen Zustand) bei der Beratung des Commissioners als wirksam angesehen werde können, darf kein Club ei-ne Entscheidung des Commissioners als bindend ansehen oder eine Beschwerde einreichen, die nicht offiziell in den Boards angekündigt wurde. </dd>
+        <dd>bezeichnet die Veröffentlichung auf den o.g. Message Boards. Nur ein Post auf einer dieser Plattformen dient als offizielle Benachrichtigung der Commissioner zu allen Themen. Ebenso werden informelle Bekanntmachungen (mündlich, im betrunkenen Zustand) der Commissioner als nicht wirksam angesehen. Jeder Club darf eine Entscheidung der Commissioner nicht als bindend ansehen, die nicht offiziell in den Boards angekündigt wurde. </dd>
     
         <dt>„Regular Season“</dt>
-        <dd>bezeichnet den Zeitraum zwischen dem Tag, an dem das erste NFL-Football-Spiel in einem bestimmten Jahr ausgetragen wird, und dem Auflösen der „normalen“ Spiele.</dd>
+        <dd>bezeichnet den Zeitraum zwischen dem Tag, an dem das erste NFL-Football-Spiel in einem bestimmten Jahr ausgetragen wird, und dem Ende des letzten Spiels in Week 14.</dd>
     
         <dt>„Playoffs“</dt>
-        <dd>bezeichnet den Zeitraum zwischen dem letzten Regular Season Spiel und dem offiziellen Ende der Season.</dd>
+        <dd>bezeichnet den Zeitraum zwischen dem letzten Regular Season Spiel (Week 14) und dem offiziellen Ende der Season.</dd>
     
         <dt>„Offseason“ </dt>
         <dd>bezeichnet den Zeitraum zwischen dem Ende der Season und dem Tag, an dem das erste NFL-Football-Spiel in einem bestimmten Jahr ausgetragen wird.</dd>
     </dl>
 
     <h3 bind:this={twoOne}>Zeit</h3>
-    <p>Bezieht sich diese Constitution auf eine „Week“, so wird damit entweder eine Spielwoche (z. B. von 19 Uhr an einem Dienstag bis 19 Uhr am folgenden Dienstag), oder bezieht sich im Zusammenhang mit einem Head-to-Head-Games auf den Zeitraum, der das Head-to-Head-Game zwischen zwei Gegnern umfasst, unabhängig von der Anzahl der tatsächlichen Tage innerhalb dieses Zeitraums. </p>
+    <p>Bezieht sich diese Constitution auf eine „Week“, so wird damit entweder eine Spielwoche (z. B. von 19 Uhr an einem Dienstag bis 19 Uhr am folgenden Dienstag) bezeichnet, oder sie bezieht sich auf ein Head-to-Head-Game zwischen zwei Gegnern, unabhängig von der Anzahl der tatsächlichen Tage innerhalb dieses Zeitraums. </p>
     <p>Alle hier angewendeten Zeiten werden als Mitteleuropäische Zeit (MET) berechnet.</p>
 
     
@@ -220,11 +220,11 @@
         <li>Zu den Aufgaben des Commissioners gehören:</li>
             <ol type="a">
                 <li>als Verwaltungschef, Streitschlichter and (evtl. in Zukunft) als Finanzverwalter der Liga zu fungieren.</li>
-                <li>entweder auf Beschwerde oder auf eigene Initiative jede Handlung, Transaktion oder Praxis zu untersuchen, die beklagt oder verdächtigt wird, nicht im besten Interesse des Fantasy Footballs zu handeln, mit der Befugnis, die Clubs und Manager zu zwingen, auf offizielle Fragen des Commissioners zu reagieren, die zur Lösung erforderlich sind und nach Prüfung oder nach einer Ablehnung oder Nichtbefolgung solcher Ermahnungen, die im Folgenden vorgesehenen Sanktionen zu verhängen.</li>
+                <li>entweder auf Beschwerde oder auf eigene Initiative jede Handlung, Transaktion oder Praxis zu untersuchen, die verdächtigt wird, nicht im besten Interesse des Fantasy Footballs zu stehen, mit der Befugnis, die Clubs und Manager dazu zu bewegen, auf offizielle Fragen zu diesem Problem zu reagieren und nach Prüfung oder Nichtbefolgung solcher Ermahnungen, die im Folgenden vorgesehenen Sanktionen zu verhängen.</li>
                 <li>nach der Untersuchung festzustellen, welche Präventiv- oder Strafmaßnahmen unter den jeweiligen Umständen für die Handlung, Transaktion oder Praxis angemessen sind und gegebenenfalls Maßnahmen gegen Clubs, Manager oder andere Personen zu ergreifen.</li>
                 <li>die Person zu ernennen, die dem Amt des Commissioners offiziell beigeordnet ist, soweit dies nach alleinigem Ermessen des Commissioners erforderlich ist.</li>
-                <li>Überprüfung und Genehmigung der Keeper-Auswahl (evtl. in der Zukunft) und Transaktionen und Trades zwischen Clubs in Bezug auf Wettbewerbsgleichge-wicht, Einhalten von Absprachen oder anderen eingeschränkten Praktiken und im besten Interesse des Fantasy Footballs.</li>
-                <li>Entscheidungen zu treffen oder Personen zu ernennen, die Entscheidungen in Be-zug auf Regelauslegungen, Verwaltungsfunktionen, Finanztransaktionen oder Disziplinarmaßnahmen treffen, soweit dies erforderlich sein kann.</li>
+                <li>Überprüfung und Genehmigung der Keeper-Auswahl (evtl. in der Zukunft) und Transaktionen und Trades zwischen Clubs in Bezug auf Wettbewerbsgleichgewicht, Einhalten von Absprachen oder anderen eingeschränkten Praktiken im besten Interesse des Fantasy Footballs.</li>
+                <li>Entscheidungen zu treffen oder Personen zu ernennen, die Entscheidungen in Bezug auf Regelauslegungen, Verwaltungsfunktionen, Finanztransaktionen oder Disziplinarmaßnahmen treffen, soweit dies erforderlich sein kann.</li>
                 <li>Alle Änderungen dieser Verfassung in Anhang B "Änderungshistorie" festzuhalten.</li>
             </ol>
     </ol>
