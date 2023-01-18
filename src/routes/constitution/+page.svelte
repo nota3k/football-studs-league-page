@@ -115,7 +115,7 @@
     
         <h4 class="noUnderscore clickable" on:click={() => goToSection(threeOne)}>Das Amt des Commissioners</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(threeTwo)}>Vorgeschriebene Strafen</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(threeThree)}>Commissioner soll die Autorität der Clubs nicht ersetzen</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(threeThree)}>Commissioner und die Autorität der Clubs</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(threeFour)}>Verfahren zur Überprüfung und/oder Aufhebung der Entscheidung des Commissioners</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(threeFive)}>Amtszeitbeschränkungen und Wahlen</h4>
     
@@ -167,7 +167,7 @@
         <h4 class="noUnderscore clickable" on:click={() => goToSection(tenFour)}>Strafen</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(tenFive)}>Schiedsrichter und Jurys</h4>
     
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(eleven)}>Anhang "A": FINANZEN</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(eleven)}>Artikel XI: FINANZEN</h3>
     
     <h3 class="noUnderscore clickable" on:click={() => goToSection(twelve)}>Anhang "B": VERSIONSHISTORIE</h3>
     
@@ -231,7 +231,7 @@
 
     <h3 bind:this={threeTwo}>Vorgeschriebene Strafen</h3>
     <ol start="3">
-        <li>Im Falle eines Verhaltens, das der Commissioner als nicht im besten Interesse der Liga oder des Fantasy Footballs erachtet, können Straf- oder Disziplinarmaßnahmen gegen Clubs oder Manager eine oder mehrere der folgenden Maßnahmen umfassen:</li>
+        <li>Im Falle einer Aktion, die der Commissioner als nicht im Sinne der Constitution erachtet, können folgende Straf- oder Disziplinarmaßnahmen gegen Clubs oder Manager erlassen werden:</li>
             <ol type="a">
                 <li>Eine formelle Warnung;</li>
                 <li>Eine Rückgängigmachung, Änderung oder Ablehnung einer angefochtenen Transaktion;</li>
@@ -239,15 +239,15 @@
                 <li>Ein Verfall eines zuvor bestimmten Draft-Picks;</li>
                 <li>Eine Reduzierung der Waiver Priority;</li>
                 <li>Suspendierung oder Entfernung eines Clubs oder eines Managers aus der Liga;</li>
-                <li>Verfall der Jahresbeiträge (falls vorhanden);</li>
+                <li>Abzug oder Verfall des FAAB-Budgets (falls vorhanden);</li>
                 <li>Andere Maßnahmen, die der Commissioner für angemessen hält.</li>
             </ol>
-        <li>Entscheidungen des Commissioners, die Strafen für die Clubs enthalten, müssen formell in den Boards veröffentlicht werden.</li>
+        <li>Entscheidungen des Commissioners über Strafen für die Clubs müssen formell in den Boards veröffentlicht werden.</li>
     </ol>
     
-    <h3 bind:this={threeThree}>Commissioner soll die Autorität der Clubs nicht ersetzen</h3>
+    <h3 bind:this={threeThree}>Commissioner und die Autorität der Clubs</h3>
     <ol start="5">
-         <li>Ungeachtet der Bestimmungen des vorstehenden Abschnitts 2 darf der Commissioner keine Maßnahmen ergreifen und keine Änderung dieser Verfassung oder Anpassung des Status quo in Bezug auf Angelegenheiten vornehmen, die eine Abstimmung der Clubs erfordern, wie in Artikel IV, Abschnitt 2 dargelegt.</li>
+         <li>Ungeachtet der Bestimmungen des vorstehenden Abschnitts 2 darf der Commissioner keine Maßnahmen ergreifen und keine Änderung dieser Constitution oder Anpassung des Status Quo vornehmen, die eine Abstimmung der Clubs erfordern, wie in Artikel IV, Abschnitt 2 dargelegt.</li>
     </ol>
     
     <h3 bind:this={threeFour}>Verfahren zur Überprüfung und/oder Aufhebung der Entscheidung des Commissioners</h3>
