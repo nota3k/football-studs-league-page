@@ -577,7 +577,7 @@
 
   <h2 class="sectionHeading" bind:this={eleven}>Anhang "B": VERSIONSHISTORIE</h2>  
   
-  <table>
+  <table border="1">
   <tr>
     <th>Anhang</th>
     <th>Anhang Beschreibung</th>
