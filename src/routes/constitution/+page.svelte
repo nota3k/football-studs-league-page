@@ -517,7 +517,7 @@
 
     
   <h2 class="sectionHeading" bind:this={ten}>Anhang "A": FINANZEN</h2>  
-   <p>Jedes Jahr wird von jedem Manager ein Buy-In Beitrag von 5€ erhoben. Dieses Budget soll für die Gravierung der beiden Trophäen, für eine eventuelle Neuanschaffung dieser und für den Versand an Manager dienen.</p>
+   <p>Jedes Jahr wird von jedem Manager ein Buy-In Beitrag von 5€ erhoben. Dieses Budget soll für die Gravierung der beiden Trophäen, für eine eventuelle Neuanschaffung dieser und für den Versand an Manager dienen. Der Commissioner oder ein von ihm beauftragter Manager sammeln das Geld in der Offseason ein und verwalten es über die gesamte Zeit. Zusätzlich wird ein schriftlicher Bericht angefertigt.</p>
 
 <table border="1">
   <tr>
