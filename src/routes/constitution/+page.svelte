@@ -160,7 +160,7 @@
         <h4 class="noUnderscore clickable" on:click={() => goToSection(nineFour)}>Strafen</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(nineFive)}>Schiedsrichter</h4>
     
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(ten)}>Artikel XI: FINANZEN</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(ten)}>Anhang "A": FINANZEN</h3>
     
     <h3 class="noUnderscore clickable" on:click={() => goToSection(eleven)}>Anhang "B": VERSIONSHISTORIE</h3>
     
@@ -519,7 +519,7 @@
   <h2 class="sectionHeading" bind:this={ten}>Anhang "A": FINANZEN</h2>  
    <p>Jedes Jahr wird von jedem Manager ein Buy-In Beitrag von 5€ erhoben. Dieses Budget soll für die Gravierung der beiden Trophäen, für eine eventuelle Neuanschaffung dieser und für den Versand an Manager dienen.</p>
 
-<table>
+<table border="1">
   <tr>
     <th>Manager</th>
     <th>2023</th>
