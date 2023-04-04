@@ -610,7 +610,7 @@
   </tr>
   <tr>
     <td>05</td>
-    <td>Überarbeitung der Constitution aufgrund der Übersicht</td>
+    <td>Überarbeitung der Constitution (FAAB, League-Median, Finanzen)</td>
     <td>Marcus</td>
     <td>04.04.2023</td>
   </tr>
