@@ -300,7 +300,8 @@
                         <li>Week 6: Kicker Punkte (1. vs. 10.; 2. vs. 9; etc.)</li>
                         <li>Week 10: Bench Punkte (1. vs. 10.; 2. vs. 9; etc.)</li>
                         <li>Week 14 (letzte Week der Regular Season): 1. vs. 2.; 3. vs. 4; etc.</li>
-                    </ol> 
+                    </ol>
+				<li>Zusätzlich findet ein imagineres Spiel gegen den League-Mittelwert statt. Dabei wird aus den erzielten Punkten aller Manager ein Mittelwert gebieldet. Liegen die eigenen erzielten Punkte darüber, so erhällt man einen weitern Win, liegen sie darunter, so erhält man ein weiteres Loss.</li>	
             </ol>
          <li>Die Scoring-Kategorien und zugehörigen Punkte für die Liga lauten wie folgt:</li>
              <ol type="a">
@@ -516,8 +517,62 @@
 
     
   <h2 class="sectionHeading" bind:this={ten}>Anhang "A": FINANZEN</h2>  
-  
-  <p>TBA</p>
+   <p>Jedes Jahr wird von jedem Manager ein Buy-In Beitrag von 5€ erhoben. Dieses Budget soll für die Gravierung der beiden Trophäen, für eine eventuelle Neuanschaffung dieser und für den Versand an Manager dienen.</p>
+
+<table>
+  <tr>
+    <th>Manager</th>
+    <th>2023</th>
+  </tr>
+  <tr>
+    <td>Marcus</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Chris</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Hembes</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Maggi</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Bö</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Ecki</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>David M.</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>David S.</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Nico</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Marten</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Janosch</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Manu</td>
+    <td></td>
+  </tr>
+</table>
 
 
   <h2 class="sectionHeading" bind:this={eleven}>Anhang "B": VERSIONSHISTORIE</h2>  
