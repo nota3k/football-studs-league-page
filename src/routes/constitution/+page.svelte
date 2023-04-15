@@ -415,7 +415,7 @@
     
     <h3 bind:this={sevenThree}>Trade Deadline</h3>
     <ol start="5">
-         <li>Die Frist für Trades ist der Anpfiff des Monday Night Spiels in Week 12.</li>
+         <li>Die Frist für Trades ist der Anpfiff des Monday Night Spiels in Week 13.</li>
     </ol>
 
     <h3 bind:this={sevenFour}>FAAB-Einsatz</h3>
