@@ -167,7 +167,7 @@
     <hr />
     
      <h2 class="sectionHeading" bind:this={one}>Artikel 1: EINLEITUNG</h2>
-     <p>Diese Constitution ist das Produkt einer Vereinbarung zwischen den Managern der Liga. Von diesen Manager akzeptiert jeder die Regeln und Pflichten, die in dieser Vereinbarung festgesetzt wurden und verpflichtet sich, diese zu befolgen. Die Constitution bleibt auf unbestimmte Zeit in Kraft.</p>
+     <p>Diese Constitution ist eine Vereinbarung zwischen den Managern der Liga. Von diesen Managern akzeptiert jeder die Regeln und Pflichten, die in dieser Vereinbarung festgesetzt wurden und verpflichtet sich, diese zu befolgen. Die Constitution bleibt auf unbestimmte Zeit in Kraft.</p>
     
 
      <h2 class="sectionHeading" bind:this={two}>Artikel II: LEAGUE COMMISSIONER</h2>
@@ -177,37 +177,37 @@
 			<li>Das Amt des Commissioners ist hiermit eingerichtet.</li>
 			<li>Zu den Aufgaben des Commissioners gehören:</li>
 				<ol type="a">
-					<li>als Verwaltungschef, Streitschlichter und als Finanzverwalter der Liga zu fungieren.</li>
+					<li>als Verwaltungschef und Streitschlichter der Liga zu fungieren.</li>
 					<li>Fragen der Mitglieder zu beantworten und auftretende Probleme zu lösen.</li>
-					<li>auf Beschwerde oder auf eigene Initiative jede Handlung oder Transaktion zu untersuchen, die eventuell nicht mit den Regeln dieser Constitution vereinbar ist. Dabei hat er die Befugnis, Manager dazu zu bewegen, zu diesem Problem Stellung zu nehmen und anschließend eventuelle vorgesehenen Sanktionen zu verhängen.</li>
+					<li>auf Beschwerde oder auf eigene Initiative jede Handlung oder Transaktion zu untersuchen, die eventuell nicht mit den Regeln dieser Constitution vereinbar ist. Dafür darf er Manager dazu bewegen, zu einem Problem Stellung zu nehmen und anschließend eventuelle vorgesehenen Sanktionen zu verhängen.</li>
 					<li>welche Präventiv- oder Strafmaßnahmen unter den jeweiligen Umständen für die Handlung oder Transaktion angemessen sind und gegebenenfalls Maßnahmen gegen Manager oder andere Personen zu ergreifen.</li>
-					<li>eine Person zu ernennen, die dem Amt des Commissioners offiziell beigeordnet ist, soweit dies nach alleinigem Ermessen des Commissioners erforderlich ist.</li>
-					<li>Entscheidungen in Bezug auf Regelauslegungen, Verwaltungsfunktionen, Finanztransaktionen oder Disziplinarmaßnahmen treffen, soweit dies erforderlich sein kann.</li>
+					<li>eine Person zu ernennen, die dem Amt des Commissioners offiziell beigeordnet ist, soweit dies erforderlich ist.</li>
+					<li>Entscheidungen in Bezug auf Regelauslegungen, Verwaltung, Trades oder Disziplinarmaßnahmen treffen, soweit dies erforderlich sein kann.</li>
 					<li>alle Änderungen dieser Verfassung in Anhang B "Änderungshistorie" festzuhalten.</li>
 				</ol>
 			<li>Amtszeitbeschränkungen und Wahlen</li>			
 				<ol type="a">
-					<li>Der Commissioner übt sein Amt ohne Mindestdauer aus. Die Manager der Liga haben in jeder Offseason die Möglichkeit über einen neuen Commissioner abzustimmen.</li>
-					<li>Die Wahl eines Commissioners erfolgt mit einfacher Mehrheit, und jeder Manager hat eine (1) Stimme. Bei Stimmengleichheit findet mindestens einmal wöchentlich eine weitere Wahl statt, bis ein Commissioner gewählt ist.</li>
+					<li>Der Commissioner übt sein Amt ohne Mindestdauer aus. Die Manager der Liga haben in jeder Offseason die Möglichkeit, über einen neuen Commissioner abzustimmen.</li>
+					<li>Die Wahl eines Commissioners erfolgt mit einfacher Mehrheit. Jeder Manager hat eine (1) Stimme. Bei Stimmengleichheit findet mindestens einmal wöchentlich eine weitere Wahl statt, bis ein Commissioner gewählt ist.</li>
 					<li>Der Commissioner kann jederzeit (auch in der Season) mit einer Zweidrittel-Mehrheit abgewählt werden. Gleichzeitig muss ein neuer Commissioner mit absoluter Mehrheit gewählt werden. Kommt diese Mehrheit nicht zustande, bleibt der Commissioner bis auf Weiteres im Amt.</li>
-					<li>Der Commissioner ist zu jeder Zeit gleichgestellt mit jedem anderen Manager der Liga. Er hat sich an alle Regeln zu halten unabhängig der in Artikel II, Abschnitt 2 beschriebenen Sonderrechte.</li>
+					<li>Der Commissioner ist zu jeder Zeit gleichgestellt mit jedem anderen Manager der Liga. Er hat sich an alle Regeln zu halten, unabhängig der in Artikel II, Abschnitt 2 beschriebenen Sonderrechte.</li>
 				</ol>
 		</ol>
 
 	<h3 bind:this={twoTwo}>Einschränkungen</h3>
 		<ol start="4">
 			<li>Ungeachtet der Bestimmungen dieses Abschnitts darf der Commissioner keine Maßnahmen ergreifen und keine Änderung dieser Constitution vornehmen, die eine Abstimmung der Manager erfordern, wie in Artikel III, Abschnitt 2 dargelegt.</li>
-			<li>Jede nach diesem Artikel ergriffene Maßnahme des Commissioners kann nach folgendem Verfahren aufgehoben werden:</li>			
+			<li>Jede ergriffene Maßnahme des Commissioners kann nach folgendem Verfahren wieder aufgehoben werden:</li>			
 				<ol type="a">
-					<li>Manager, die von der Entscheidung betroffen sind, sind nicht berechtigt, an einem Vote zur Aufhebung dieser Entscheidung teilzunehmen.</li>
-					<li>Die Entscheidung kann neu überprüft werden, wenn bei den nicht beteiligten Managern, die mindestens die Hälfte gegen die Entscheidung des Commissioners stimmt. Damit ist die Entscheidung überstimmt und der Vorfall kann neu überprüft oder neu abgestimmt werden. <u>Dieser Antrag auf Abstimmung muss innerhalb einer Woche nach der Entscheidung in den Message Boards eingereicht werden.</u></li>
-					<li>Der Commissioner und alle betroffenen Parteien können bei den Managern nach Belieben zur Unterstützung einer Abstimmung werben.</li>
+					<li>Manager, die von der Entscheidung betroffen sind, sind nicht berechtigt, an einem Vote zur Aufhebung der -Commissioner-Entscheidung teilzunehmen.</li>
+					<li>Die Entscheidung kann neu überprüft werden, wenn mindestens die Hälfte der Manager (ausgenommen die beteiligten Manager) gegen die Entscheidung des Commissioners stimmt. Damit kann der Fall neu überprüft oder neu abgestimmt werden. <u>Dieser Antrag auf Abstimmung muss innerhalb einer Woche nach der Entscheidung in den Message Boards gestellt werden.</u></li>
+					<li>Der Commissioner und alle betroffenen Parteien können bei den Managern der Liga nach Belieben zur Unterstützung einer Abstimmung werben.</li>
 					<li>Die Entscheidung des Commissioners kann bei der Abstimmung nur mit einer Zweidrittel-Mehrheit der wahlberechtigten Manager aufgehoben werden.</li>
 					<li>Wenn eine solche Mehrheit nicht erreicht wird, bleibt die Entscheidung des Commissioners bestehen. <u>Zur Klarstellung: Dies schließt weitere Aktionen des Commissioners gegen denselben Manager oder zum selben Thema nicht aus.</u></li>
 				</ol>
 		</ol>
-		<p><u>Auslegungsbemerkung:</u> <i>Zum Beispiel kann der Commissioner gemäß Artikel II, Abschnitt 6, Absatz f) entscheiden, dass Manager X aufgrund von illegalem Verhalten (z.B. illegal Lineup) einen Punktabzug für den Spieltag erhält. Diese Entscheidung wird an einem Dienstag um 17:35 Uhr in den Message Boards veröffentlicht. Ein Drittel der Manager (ohne die beteiligten Manager) beantragt beim Commissioner eine erneute Überprüfung oder eine erneute Abstimmung gemäß Artikel II, Abschnitt 5, Absatz b), und zwar vor Ablauf der Frist um 17:35 Uhr am folgenden Dienstag.</i></p>
-		<p><i>Der Commissioner weigert sich, dies noch einmal zu überdenken, und daher findet eine Abstimmung statt. Mehr als zwei Drittel der Manager stimmen dafür, dass die Entscheidung aufgehoben werden soll. Die Entscheidung des Commissioners ist damit offiziell aufgehoben. Der Commissioner entscheidet dann gemäß Artikel II, Abschnitt 6, Absatz d), dass der angeklagte Manager stattdessen mit einer Reduzierung der Waiver-Priority bestraft wird. Nur zwei Manager beantragen dazu eine Überprüfung dieser Entscheidung. Da dies eine unzureichende Anzahl ist, um einen gültigen Antrag zu stellen, hat diese Entscheidung bestand und der angeklagte Club wird darauf hin mit einer Reduzierung der Waiver-Priority bestraft.</i></p>
+		<p><u>Auslegungsbemerkung:</u> <i>Zum Beispiel kann der Commissioner gemäß Artikel II, Abschnitt 6, Absatz c) entscheiden, dass Manager X aufgrund von illegalem Verhalten (z.B. illegal Lineup) einen Punktabzug für den Spieltag erhält. Diese Entscheidung wird an einem Dienstag um 12:35 Uhr in den Message Boards veröffentlicht. Sechs Manager der Liga (ohne die beteiligten Manager) (mehr als 50%) beantragt beim Commissioner eine erneute Überprüfung oder eine erneute Abstimmung gemäß Artikel II, Abschnitt 5, Absatz b), und zwar vor Ablauf der Frist um 12:35 Uhr am folgenden Dienstag.</i></p>
+		<p><i>Der Commissioner weigert sich, dies noch einmal zu überdenken, und daher findet eine Abstimmung statt. Mehr als zwei Drittel der Manager stimmen dafür, dass die Entscheidung aufgehoben werden soll. Die Entscheidung des Commissioners ist damit offiziell aufgehoben. Der Commissioner entscheidet dann gemäß Artikel II, Abschnitt 6, Absatz e), dass der angeklagte Manager stattdessen mit einer Reduzierung der Waiver-Priority bestraft wird. Nur zwei Manager beantragen dazu eine Überprüfung dieser Entscheidung. Da dies weniger als 50% sind, um einen gültigen Antrag zu stellen, hat diese Entscheidung bestand und der angeklagte Manager wird darauf hin mit einer Reduzierung der Waiver-Priority bestraft.</i></p>
 
 	<h3 bind:this={twoThree}>Vorgeschriebene Strafen</h3>
 		<ol start="6">
@@ -228,7 +228,7 @@
     
     <h2 class="sectionHeading" bind:this={three}>Artikel III: CLUBS UND MANAGER</h2>
     
-    <h3 bind:this={threeOne}>Aktuelle Besetzung</h3>
+    <h3 bind:this={threeOne}>Aktuelle Manager</h3>
     <ol>
          <li>Die Manager jedes Clubs werden wie folgt festgelegt:</li>
             <ol type="a">
@@ -243,43 +243,43 @@
                 <li>Nico – Stay calm and OMAHA!</li>
                 <li>Marten – Rasenrammler Rügen</li>
                 <li>Janosch – Sorenson GOAT</li>
-                <li>Manu – lions50</li>
+                <li>Manu – Turned Goff Again</li>
             </ol>
     </ol>
     
     <h3 bind:this={threeTwo}>Abstimmungen in der Offseason</h3>
     <ol start="2">
-         <li>In jeder Offseason sind die Manager verpflichtet, an Abstimmungen teil zu nehmen, die Folgendes umfassen, aber nicht darauf beschränkt sind:</li>
+         <li>In jeder Offseason sind die Manager verpflichtet, an Abstimmungen teil zu nehmen, die Folgendes umfassen können:</li>
             <ol type="a">
                 <li>die Wahl eines Commissioners;</li>
-                <li>Der Betrag des jährlichen Buy-Ins eines Clubs;</li>
-                <li>Änderung an dieser Constitution. Dies kann Folgendes umfassen, aber nicht darauf beschränkt sein:</li>
+                <li>Der Betrag des jährlichen FAABs eines Clubs;</li>
+                <li>Änderung an dieser Constitution. Dies kann Folgendes umfassen:</li>
                     <ol type="i">
                         <li>Die Erweiterung der Liga;</li>
                         <li>Aktualisierung der Ligaeinstellungen und Regeln, wie in Artikel IV definiert; und</li>
-                        <li>Aktualisierung der Draft-Einstellungen.</li>
+                        <li>Aktualisierung der Draft-Regularien.</li>
                     </ol> 
             </ol>
     </ol>
-    <p>Absatz a) und b) bedarf einer einfachen Mehrheit durch eine Abstimmung; Absatzes c) bedarf eine Zweidrittelmehrheit. Alle Abstimmungen bleiben für 3 Tage nach der Erstellung geöffnet. Nach Ablauf des Abstimmungsfensters werden alle Stimmen gezählt und eine Entscheidung vom Commissioner gemäß der ihm in Artikel III, Abschnitt 2 Absatz f) erteilten Befugnis getroffen.</p>
+    <p>Absatz a) bis c) bedarf einer einfachen Mehrheit durch eine Abstimmung; Absatzes c) kann bei Bedarf und Bedeutung der Änderung mit einer Zwei-Drittel-Mehrheit festgesetzt werden. Nach Ablauf des Abstimmungsfensters werden alle Stimmen gezählt und eine Entscheidung vom Commissioner gemäß der ihm in Artikel II, Abschnitt 2 Absatz f) erteilten Befugnis getroffen.</p>
 
     <h3 bind:this={threeThree}>Abstimmungen in der Regular Season</h3>
     <ol start="3">
-         <li>Während der Regular Saison sind die Manager verpflichtet, an Abstimmungen teil zu nehmen, die Folgendes umfassen, aber nicht darauf beschränkt sind:</li>
+         <li>Während der Regular Saison sind die Manager verpflichtet, an Abstimmungen teil zu nehmen, die Folgendes umfassen können:</li>
             <ol type="a">
-                <li>Meinungsumfragen, die vom Commissioner zur Orientierung verlangt werden; und</li>
+                <li>Umfragen, die vom Commissioner zur Orientierung verlangt werden; und</li>
                 <li>Überprüfung der Entscheidungen des Commissioners innerhalb der Regular Saison, wie in Artikel II, Abschnitt 5 dargelegt.</li>
             </ol>
-		 <li>Diese Constitution kann, während der Regular Saison, nur durch einstimmigen Beschluss der Clubs durch eine Abstimmung geändert werden. Die Abstimmungen bleiben für 3 Tage nach der Erstellung geöffnet. Nach Ablauf des Abstimmungsfensters werden alle Stimmen gezählt und eine Entscheidung vom Commissioner gemäß der ihm in Artikel II, Abschnitt 2 Absatz f) erteilten Befugnis getroffen.</li>
+		 <li>Diese Constitution kann, während der Regular Saison, nur durch einstimmigen Beschluss durch eine Abstimmung der Manager geändert werden. Die Abstimmungen bleibt für 3 Tage nach der Erstellung geöffnet. Nach Ablauf des Abstimmungsfensters werden alle Stimmen gezählt und eine Entscheidung vom Commissioner gemäß der ihm in Artikel II, Abschnitt 2 Absatz f) erteilten Befugnis getroffen.</li>
     </ol>
     
     <h3 bind:this={threeFour}>Regularien der Abstimmungen</h3>
     <ol start="5">
-         <li>Es besteht keine Abstimmungspflicht in der Regular Season- und Offseason. Falls ein Manager nicht abstimmt, verfällt dessen Stimme jedoch unwiderruflich.</li>
+         <li>Es besteht eine Abstimmungspflicht in der Regular Season- und Offseason. Falls ein Manager nicht abstimmt, verfällt dessen Stimme unwiderruflich.</li>
          <li>Ausnahmen, bei der eine 100% Abstimmungsquote erreicht werden muss, sind: Abwahl-/ Wahl des Commissioners, Abstimmung in Bezug auf die Constitution, Ernennung/Ersetzen neuer Mitglieder, Ort und Uhrzeit des Drafts.</li>
     </ol>
     
-    <h3 bind:this={threeFive}>Rückzug von Managern</h3>
+    <h3 bind:this={threeFive}>Austritt von Managern</h3>
     <ol start="7">
          <li>Manager können sich jederzeit zwischen Beginn der Offseason und dem 15. August innerhalb dieser Offseason ohne Strafe aus der Liga zurückziehen. Ihre Clubs bleiben bestehen und ein neuer Manager kann durch die anderen Manager gefunden und ernannt werden.</li>
          <li>Jeder Manager, der zwischen dem 15. August und dem Beginn der folgenden Offseason in einem bestimmten Jahr aussteigt, verliert sein Buy-In-Guthaben.</li>
@@ -292,16 +292,16 @@
     <h3 bind:this={fourOne}>Allgemeine Einstellungen der Liga</h3>
     <ol>
          <li>Die Liga ist eine wöchentliche Head-to-Head-Liga, die auf Sleeper gehosted wird.</li>
-         <li>Das Scheduling der Liga wird von den internen Systemen von Sleeper festgelegt und vom Commissioner überprüft und an die Bye-Weeks angepasst.</li>
+         <li>Das Scheduling der Liga wird von den internen Systemen von Sleeper festgelegt, vom Commissioner überprüft und an die Bye-Weeks angepasst.</li>
             <ol type="a">
                 <li>Jeder spielt einmal gegen jeden anderen.</li>
                 <li>Da hierfür nur elf (11) Wochen nötig sind, werden die Weeks 6, 10 und 14 nach vorgegebenen Methoden ausgelost:</li>
                     <ol type="i">
-                        <li>Week 6: Kicker Punkte (1. vs. 10.; 2. vs. 9; etc.)</li>
-                        <li>Week 10: Bench Punkte (1. vs. 10.; 2. vs. 9; etc.)</li>
-                        <li>Week 14 (letzte Week der Regular Season): 1. vs. 2.; 3. vs. 4; etc.</li>
+                        <li>Week 6: Kicker Punkte aus Week 5 (1. vs. 10.; 2. vs. 9; etc.)</li>
+                        <li>Week 10: Bench Punkte aus Week 9 (1. vs. 10.; 2. vs. 9; etc.)</li>
+                        <li>Week 14: Gesamt-Platzierungen: 1. vs. 2.; 3. vs. 4; etc.</li>
                     </ol>
-				<li>Zusätzlich findet ein imagineres Spiel gegen den League-Mittelwert statt. Dabei wird aus den erzielten Punkten aller Manager ein Mittelwert gebieldet. Liegen die eigenen erzielten Punkte darüber, so erhällt man einen weitern Win, liegen sie darunter, so erhält man ein weiteres Loss.</li>	
+				<li>Zusätzlich findet ein imagineres Spiel gegen den League-Median statt. Dabei wird der Mittelwert aus den Punkten des 6. und des 7. eines Spieltags (Median) gebieldet. Liegen die eigenen erzielten Punkte darüber, so erhält man einen weitern Win, liegen sie darunter, so erhält man ein weiteres Loss.</li>	
             </ol>
          <li>Die Scoring-Kategorien und zugehörigen Punkte für die Liga lauten wie folgt:</li>
              <ol type="a">
@@ -328,13 +328,14 @@
 
     <h3 bind:this={fourTwo}>Siege und Tiebreaker</h3>
     <ol start="6">
-         <li>Wöchentliche Head-to-Head-Matchups werden von dem Team mit der höheren Punktzahl für diese bestimmte Woche nach Abzug aller etwaigen Strafen gemäß Artikel VI, Abschnitt 7 gewonnen.</li>
+         <li>Wöchentliche Head-to-Head-Matchups werden von dem Team mit der höheren Punktzahl für diese bestimmte Woche nach Abzug aller etwaigen Strafen gemäß Artikel IX, Abschnitt 8 gewonnen.</li>
          <li>Matchups, die mit einem Unentschieden enden, werden als Unentschieden mit Ausnahme von Spielen in den Playoffs und des Championship-Games wie in Artikel VIII, Abschnitt 6 gewertet.</li>
     </ol>
     
-    <h3 bind:this={fourThree}>Transaktionsbeschränkungen</h3>
+    <h3 bind:this={fourThree}>Trades und Waiver-Picks</h3>
     <ol start="8">
-         <li>Jeder Club ist berechtigt, jede Saison eine unbegrenzte Anzahl von Trades und/oder Add/Drops  auf der Waiver zu tätigen.</li>
+         <li>Jeder Club ist berechtigt, jede Saison eine unbegrenzte Anzahl von Trades und/oder Add/Drops auf der Waiver zu tätigen.</li>
+	 <li>Jeder Club hat vor der Saison ein entsprechendes FAAB-Budget erhalten. Dies muss für die Waiver-Adds benutzt werden.</li>
          <li>Jeder Trade unterliegt keinem Überprüfungszeitraum. Manager haben jedoch die Möglichkeit durch eine Abstimmung den Trade als illegal oder unfair zu melden.</li>
     </ol>
     
@@ -355,13 +356,14 @@
     <h3 bind:this={fiveThree}>Regeln des Drafts</h3>
     <ol start="4">
          <li>Der Draft unterliegt dem automatisierten Prozess von Sleeper und ist ein Snake Draft.</li>
+	 <li>Jedoch kann der Draft auf anderen Plattformen oder im Offline-Format stadtfinden. Die Ergebnisse werden anschließend vom Commissioner in Sleeper eingetragen.</li>
     </ol>
 
     <h2 class="sectionHeading" bind:this={six}>Artikel VI: FREE AGENCY, FAAB-BUDGETS UND ROSTER MANAGEMENT</h2>
     
-    <h3 bind:this={sixOne}>Free Agent Akquisition</h3>
+    <h3 bind:this={sixOne}>Free Agent und Waiver Wire</h3>
     <ol>
-         <li>Free Agent Spieler werden über die wöchentliche Free Agent Waiver Wire erworben. Die Waiver-Wire-Reihenfolge wird anhand des eingesetzten FAAB-Budgets für den jeewiligen Spieler festgelegt, wie in Artikel VI, Abschnitt 9 beschrieben.</li>
+         <li>Free Agent Spieler werden über die wöchentliche Waiver Wire erworben. Die Waiver-Wire-Reihenfolge wird anhand des eingesetzten FAAB-Budgets für den jeewiligen Spieler festgelegt, wie in Artikel VI, Abschnitt 9-14 beschrieben.</li>
          <li>Es gibt kein Saison-Limit an Free-Agent/Waiver-Picks.</li>
          <li>Jeder neue Free Agent bleibt 24 Stunden lang auf der Waiver Wire, um allen Teams die Möglichkeit zu geben, auf diesen zu bieten.</li>
     </ol>
@@ -369,7 +371,7 @@
     <h3 bind:this={sixTwo}>Verantwortlichkeiten der Manager</h3>
     <ol start="4">
          <li>Manager müssen jederzeit ein komplettes (legal) Team aufstellen.</li>
-         <li>Manager dürfen verletzte Spieler oder IR-Spieler nicht zum Kick-Off in ihrer aktiven Aufstellung belassen. Ebenso dürfen Spieler, die auf einem IR-Spot sind, nachdem sie den Out oder IR-Status verloren haben, nicht auf diesem Spot zum Kick-Off verbleiben.</li>
+         <li>Manager dürfen verletzte Spieler oder IR-Spieler nicht zum Kick-Off in ihrer aktiven Aufstellung belassen. Kick-Off bedeutet, dass mindestens ein Spieler in der aktiven Aufstellung spielt. Ebenso dürfen Spieler, die auf einem IR-Spot sind, nachdem sie den Out oder IR-Status verloren haben, nicht auf diesem Spot zum Kick-Off bleiben.</li>
          <li>Verletzt sich ein Spieler vor einem Spätspiel, oder ist bis dahin der Status noch nicht geklärt, wird die Frist für die Manager zum wechseln des Spielers auf 23 Uhr des Spieltages festgelegt. Ändert sich nach dieser Uhrzeit der Status eines Spieler, so wird der Manager nicht für ein illegal Line-Up verantwortlich gemacht.</li>
          <li>Die Nichteinhaltung der in den Abschnitten 4,5 und 6 festgelegten Verantwortlichkeiten führt dazu, dass der Manager nach Ermessen des Commissioners gemäß Artikel II, Abschnitt 6 bestraft wird und gemäß Artikel II, Abschnitt 5 überprüfbar ist.</li>
          <li>Darüber hinaus, wenn ein Manager für einen Zeitraum von mehr als zwei Wochen inaktiv ist, stellt dies einen Regelbruch im Sinne von Artikel IX dar.</li>
@@ -380,10 +382,10 @@
          <li>Das Free Agent Acqusition Budget (FAAB) definiert eine fiktive Währung, die jeder Manager vor der Season erhält. Dieses kann für Spieler auf der Waiver-Wire geheim ausgegeben werden.</li>
          <li>Das höchste Gebot eines Managers auf einen Spieler erhält den Zuschlag.</li>
          <li>Bei einem gleichem Gebot, erhält ein Manager durch einen automatischen Prozess den Zuschlag (jedes Mal, wenn ein Manager ein Gebot gewinnt, rutscht dieser an das Ende der Waiver-Wire. Jeder andere rutscht darauf hin einen Platz nach oben, bis auch diese ein Gebot gewinnen)</li>
-		 <li>Jedes Mal, wenn ein Gebot gewonnen wird, reduziert sich das vor der Saison festgelegte Budget des jeweiligen Managers um den gebotenen Betrag. Die Gebote können nicht von anderen Managern eingesehen werden (also man kann nicht sehen, was andere Manager auf einen Spieler geboten haben).</li>
+		 <li>Jedes Mal, wenn ein Gebot gewonnen wird, reduziert sich das vor der Saison festgelegte Budget des jeweiligen Managers um den gebotenen Betrag. Die Gebote können vor dem Waiver-Durchlauf nicht von anderen Managern eingesehen werden. Erst nach dem Durchlauf sind die FAAB-Einsätze für alle sichtbar.</li>
 		 <li>Folgende Einstellungen werden getroffen:</li>
 		  <ol type="a">
-                <li>Jedes Team erhällt zum Anfang jeder Saison ein FAAB-Budget von 100$. Es gibt kein Maximum des Budgets, dass du über die Saison anhand von Trades erhalten kannst.</li>
+                <li>Jedes Team erhält zum Anfang jeder Saison ein FAAB-Budget von 200$. Es gibt kein Maximum des Budgets. Über die Saison kann FAAB-Budget anhand von Trades erhalten werden.</li>
                 <li>Das FAAB-Budget kann getraded werden (Bsp.: Manager X kann Spieler A und 50$ für Spieler B traden.).</li>
                 <li>Das FAAB-Budget wird für jede Saison zurückgesetzt.</li>
                 <li>Das FAAB-Budget kann Woche für Woche gespart werden. Jeder Maneger kann selbst entscheiden ob und wie viel er bieten möchte.</li>
@@ -401,8 +403,9 @@
          <li>Der Commissioner ist befugt, alle Transaktionen gemäß Artikel II Abschnitt 2 Absatz e) unter den folgenden Bedingungen zu bewerten:</li>
             <ol type="a">
                 <li>der Commissioner kann ein Veto gegen Transaktionen einlegen oder sie für nichtig erklären, die gegen diese Constitution verstoßen oder die nach seinem Ermessen unfair oder illegal wären;</li>
+ 		<li>Ebenso können alle Manager ein Veto gegen den Trade einlegen;</li>
                 <li>alle derartigen Vetos müssen innerhalb von 24 Stunden nach dem Trade angekündigt werden;</li>
-                <li>alle diese Vetos sind nachprüfbare Entscheidungen gemäß Artikel II, Abschnitt 5; und</li>
+                <li>alle diese Vetos sind überprüfbare Entscheidungen gemäß Artikel II, Abschnitt 5; und</li>
                 <li>der Commissioner muss diese Handlung mit allen Betroffenen abstimmen;</li>
             </ol>
     </ol>
@@ -410,7 +413,7 @@
     <h3 bind:this={sevenTwo}>Verbotene Trades</h3>
     <ol start="3">
          <li>Draft-Picks sind nicht übertragbar und dürfen nicht Teil eines Trades sein.</li>
-         <li>Mit Ausnahme der Roster- und FAAB-Anforderungen gibt es keine Einschränkungen in Bezug auf die Anzahl der Spieler, die Teil einer Transaktion sein können.</li>
+         <li>Mit Ausnahme der Roster- und FAAB-Anforderungen gibt es keine Einschränkungen in Bezug auf die Anzahl der Spieler, die Teil eines Trades sein können.</li>
     </ol>
     
     <h3 bind:this={sevenThree}>Trade Deadline</h3>
@@ -435,7 +438,7 @@
     
     <h3 bind:this={eightTwo}>Teilnahme</h3>
     <ol start="4">
-         <li>Die sechs (6) Vereine mit der höchsten Siegquote am letzten Tag vor Beginn der Playoffs qualifizieren sich für die Playoffs.</li>
+         <li>Die sechs (6) Clubs mit der höchsten Siegquote am letzten Tag vor Beginn der Playoffs qualifizieren sich für die Playoffs.</li>
          <li>Die beiden (2) Clubs mit der höchsten Gewinnquote erhalten in der ersten Runde der Playoffs eine Bye Week.</li>
     </ol>
     
@@ -447,7 +450,7 @@
     <h3 bind:this={eightFour}>Bestimmungen</h3>
     <ol start="7">
          <li>Der Sieger der Playoffs und damit der Liga erhält den Pokal mit eingraviertem Namen.</li>
-         <li>Der Verlierer der Liga erhält eine Toiletten-Pokal.</li>
+         <li>Der Verlierer der Liga erhält einen Toiletten-Pokal.</li>
          <li>Der 7. Platz in der Consolidation Bracket (Loser Round) erhält automatisch den First Pick im Draft des folgenden Jahres. Der Sieger der Liga (1. Platz) erhält automatisch den Last Pick im Draft des folgenden Jahres.</li>
     </ol>    
     
@@ -499,7 +502,7 @@
                             <li>NFL-Free Agents</li>
                         </ol>
                  <li><b>Ungültiger Spieler auf IR</b> – Abzug der Durchschnittspunkte des Spielers/der Spieler über die Saison für diesen Spieltag.</li>
-                 <li>Weitere Strafen können vom Commissioner im League Chat kommuniziert werden.</li>
+                 <li>Weitere Strafen können vom Commissioner im League Chat kommuniziert werden. Insbesondere bei Wiederholten Strafen können diese vom Commissioner angepasst und verschärft werden.</li>
         </ol>
     </ol>
     
