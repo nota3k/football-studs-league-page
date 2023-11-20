@@ -114,17 +114,17 @@
     
     <h3 class="noUnderscore clickable" on:click={() => goToSection(three)}>Artikel III: CLUBS UND MANAGER</h3>
     
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(threeOne)}>Aktuelle Besetzung</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(threeOne)}>Aktuelle Manager</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(threeTwo)}>Abstimmungen in der Offseason</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(threeThree)}>Abstimmung in der Regular Saison</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(threeFour)}>Regularien der Abstimmungen</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(threeFive)}>Rückzug von Managern</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(threeFive)}>Austritt von Managern</h4>
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(four)}>Artikel IV: LEAGUE SETTINGS</h3>
     
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fourOne)}>Allgemeine Einstellungen der Liga</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>Siege und Tiebreaker</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(fourThree)}>Transaktionsbeschränkungen</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(fourThree)}>Trades und Waiver-Picks</h4>
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(five)}>Artikel V: JEDEN VERDAMMTEN SONNTAG SNAKE DRAFT</h3>
     
@@ -134,7 +134,7 @@
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(six)}>Artikel VI: FREE AGENCY, FAAB-BUDGETS UND ROSTER MANAGEMENT</h3>
     
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixOne)}>Free Agent Akquisition</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixOne)}>Free Agent und Waiver Wire</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixTwo)}>Verantwortlichkeiten der Manager</h4>
 		<h4 class="noUnderscore clickable" on:click={() => goToSection(sixThree)}>FAAB (Free Agent Acqusition Budget)</h4>
     
