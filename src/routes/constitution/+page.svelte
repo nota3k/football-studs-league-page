@@ -176,7 +176,7 @@
 		<ol>
 			<li>Das Amt des Commissioners ist hiermit eingerichtet.</li>
 			<li>Zu den Aufgaben des Commissioners gehören:</li>
-				<ol type="a">
+				<ol type="a" id="2.2">
 					<li>als Verwaltungschef und Streitschlichter der Liga zu fungieren.</li>
 					<li>Fragen der Mitglieder zu beantworten und auftretende Probleme zu lösen.</li>
 					<li>auf Beschwerde oder auf eigene Initiative jede Handlung oder Transaktion zu untersuchen, die eventuell nicht mit den Regeln dieser Constitution vereinbar ist. Dafür darf er Manager dazu bewegen, zu einem Problem Stellung zu nehmen und anschließend eventuelle vorgesehenen Sanktionen zu verhängen.</li>
@@ -194,19 +194,19 @@
 				</ol>
 		</ol>
 
-	<h3 id="2.2" bind:this={twoTwo}>Einschränkungen</h3>
+	<h3 bind:this={twoTwo}>Einschränkungen</h3>
 		<ol start="4">
 			<li>Ungeachtet der Bestimmungen dieses Abschnitts darf der Commissioner keine Maßnahmen ergreifen und keine Änderung dieser Constitution vornehmen, die eine Abstimmung der Manager erfordern, wie in <a href="#3.2">Artikel III, Abschnitt 2</a> dargelegt.</li>
 			<li>Jede ergriffene Maßnahme des Commissioners kann nach folgendem Verfahren wieder aufgehoben werden:</li>			
 				<ol type="a">
-					<li>Manager, die von der Entscheidung betroffen sind, sind nicht berechtigt, an einem Vote zur Aufhebung der -Commissioner-Entscheidung teilzunehmen.</li>
+					<li>Manager, die von der Entscheidung betroffen sind, sind nicht berechtigt, an einem Vote zur Aufhebung der Commissioner-Entscheidung teilzunehmen.</li>
 					<li>Die Entscheidung kann neu überprüft werden, wenn mindestens die Hälfte der Manager (ausgenommen die beteiligten Manager) gegen die Entscheidung des Commissioners stimmt. Damit kann der Fall neu überprüft oder neu abgestimmt werden. <u>Dieser Antrag auf Abstimmung muss innerhalb einer Woche nach der Entscheidung in den Message Boards gestellt werden.</u></li>
 					<li>Der Commissioner und alle betroffenen Parteien können bei den Managern der Liga nach Belieben zur Unterstützung einer Abstimmung werben.</li>
 					<li>Die Entscheidung des Commissioners kann bei der Abstimmung nur mit einer Zweidrittel-Mehrheit der wahlberechtigten Manager aufgehoben werden.</li>
 					<li>Wenn eine solche Mehrheit nicht erreicht wird, bleibt die Entscheidung des Commissioners bestehen. <u>Zur Klarstellung: Dies schließt weitere Aktionen des Commissioners gegen denselben Manager oder zum selben Thema nicht aus.</u></li>
 				</ol>
 		</ol>
-		<p><u>Auslegungsbemerkung:</u> <i>Zum Beispiel kann der Commissioner gemäß Artikel II, Abschnitt 6, Absatz c) entscheiden, dass Manager X aufgrund von illegalem Verhalten (z.B. illegal Lineup) einen Punktabzug für den Spieltag erhält. Diese Entscheidung wird an einem Dienstag um 12:35 Uhr in den Message Boards veröffentlicht. Sechs Manager der Liga (ohne die beteiligten Manager) (mehr als 50%) beantragt beim Commissioner eine erneute Überprüfung oder eine erneute Abstimmung gemäß Artikel II, Abschnitt 5, Absatz b), und zwar vor Ablauf der Frist um 12:35 Uhr am folgenden Dienstag.</i></p>
+		<p><u>Auslegungsbemerkung:</u> <i>Zum Beispiel kann der Commissioner gemäß <a href="#2.6c">Artikel II, Abschnitt 6, Absatz c)</a> entscheiden, dass Manager X aufgrund von illegalem Verhalten (z.B. illegal Lineup) einen Punktabzug für den Spieltag erhält. Diese Entscheidung wird an einem Dienstag um 12:35 Uhr in den Message Boards veröffentlicht. Sechs Manager der Liga (ohne die beteiligten Manager) (mehr als 50%) beantragt beim Commissioner eine erneute Überprüfung oder eine erneute Abstimmung gemäß Artikel II, Abschnitt 5, Absatz b), und zwar vor Ablauf der Frist um 12:35 Uhr am folgenden Dienstag.</i></p>
 		<p><i>Der Commissioner weigert sich, dies noch einmal zu überdenken, und daher findet eine Abstimmung statt. Mehr als zwei Drittel der Manager stimmen dafür, dass die Entscheidung aufgehoben werden soll. Die Entscheidung des Commissioners ist damit offiziell aufgehoben. Der Commissioner entscheidet dann gemäß Artikel II, Abschnitt 6, Absatz e), dass der angeklagte Manager stattdessen mit einer Reduzierung der Waiver-Priority bestraft wird. Nur zwei Manager beantragen dazu eine Überprüfung dieser Entscheidung. Da dies weniger als 50% sind, um einen gültigen Antrag zu stellen, hat diese Entscheidung bestand und der angeklagte Manager wird darauf hin mit einer Reduzierung der Waiver-Priority bestraft.</i></p>
 
 	<h3 bind:this={twoThree}>Vorgeschriebene Strafen</h3>
