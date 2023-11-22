@@ -209,7 +209,7 @@
 		<p><u>Auslegungsbemerkung:</u> <i>Zum Beispiel kann der Commissioner gemäß <a href="#2.6c">Artikel II, Abschnitt 6, Absatz c)</a> entscheiden, dass Manager X aufgrund von illegalem Verhalten (z.B. illegal Lineup) einen Punktabzug für den Spieltag erhält. Diese Entscheidung wird an einem Dienstag um 12:35 Uhr in den Message Boards veröffentlicht. Sechs Manager der Liga (ohne die beteiligten Manager) (mehr als 50%) beantragt beim Commissioner eine erneute Überprüfung oder eine erneute Abstimmung gemäß Artikel II, Abschnitt 5, Absatz b), und zwar vor Ablauf der Frist um 12:35 Uhr am folgenden Dienstag.</i></p>
 		<p><i>Der Commissioner weigert sich, dies noch einmal zu überdenken, und daher findet eine Abstimmung statt. Mehr als zwei Drittel der Manager stimmen dafür, dass die Entscheidung aufgehoben werden soll. Die Entscheidung des Commissioners ist damit offiziell aufgehoben. Der Commissioner entscheidet dann gemäß Artikel II, Abschnitt 6, Absatz e), dass der angeklagte Manager stattdessen mit einer Reduzierung der Waiver-Priority bestraft wird. Nur zwei Manager beantragen dazu eine Überprüfung dieser Entscheidung. Da dies weniger als 50% sind, um einen gültigen Antrag zu stellen, hat diese Entscheidung bestand und der angeklagte Manager wird darauf hin mit einer Reduzierung der Waiver-Priority bestraft.</i></p>
 
-	<h3 bind:this={twoThree}>Vorgeschriebene Strafen</h3>
+	<h3 id="2.6c" bind:this={twoThree}>Vorgeschriebene Strafen</h3>
 		<ol start="6">
 			<li>Im Falle einer illegalen Aktion, können folgende Straf- oder Disziplinarmaßnahmen gegen die Manager erlassen werden:</li>
 				<ol type="a">
