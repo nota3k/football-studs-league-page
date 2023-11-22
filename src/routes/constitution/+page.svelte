@@ -182,7 +182,7 @@
 					<li>auf Beschwerde oder auf eigene Initiative jede Handlung oder Transaktion zu untersuchen, die eventuell nicht mit den Regeln dieser Constitution vereinbar ist. Dafür darf er Manager dazu bewegen, zu einem Problem Stellung zu nehmen und anschließend eventuelle vorgesehenen Sanktionen zu verhängen.</li>
 					<li>welche Präventiv- oder Strafmaßnahmen unter den jeweiligen Umständen für die Handlung oder Transaktion angemessen sind und gegebenenfalls Maßnahmen gegen Manager oder andere Personen zu ergreifen.</li>
 					<li>eine Person zu ernennen, die dem Amt des Commissioners offiziell beigeordnet ist, soweit dies erforderlich ist.</li>
-					<li>Entscheidungen in Bezug auf Regelauslegungen, Verwaltung, Trades oder Disziplinarmaßnahmen treffen, soweit dies erforderlich sein kann.</li>
+					<li id="2.2f">Entscheidungen in Bezug auf Regelauslegungen, Verwaltung, Trades oder Disziplinarmaßnahmen treffen, soweit dies erforderlich sein kann.</li>
 					<li>alle Änderungen dieser Verfassung in <a href="#anhangb">Anhang B "Änderungshistorie"</a> festzuhalten.</li>
 				</ol>
 			<li>Amtszeitbeschränkungen und Wahlen</li>			
@@ -200,24 +200,24 @@
 			<li>Jede ergriffene Maßnahme des Commissioners kann nach folgendem Verfahren wieder aufgehoben werden:</li>			
 				<ol type="a">
 					<li>Manager, die von der Entscheidung betroffen sind, sind nicht berechtigt, an einem Vote zur Aufhebung der Commissioner-Entscheidung teilzunehmen.</li>
-					<li>Die Entscheidung kann neu überprüft werden, wenn mindestens die Hälfte der Manager (ausgenommen die beteiligten Manager) gegen die Entscheidung des Commissioners stimmt. Damit kann der Fall neu überprüft oder neu abgestimmt werden. <u>Dieser Antrag auf Abstimmung muss innerhalb einer Woche nach der Entscheidung in den Message Boards gestellt werden.</u></li>
+					<li id="2.5b">Die Entscheidung kann neu überprüft werden, wenn mindestens die Hälfte der Manager (ausgenommen die beteiligten Manager) gegen die Entscheidung des Commissioners stimmt. Damit kann der Fall neu überprüft oder neu abgestimmt werden. <u>Dieser Antrag auf Abstimmung muss innerhalb einer Woche nach der Entscheidung in den Message Boards gestellt werden.</u></li>
 					<li>Der Commissioner und alle betroffenen Parteien können bei den Managern der Liga nach Belieben zur Unterstützung einer Abstimmung werben.</li>
 					<li>Die Entscheidung des Commissioners kann bei der Abstimmung nur mit einer Zweidrittel-Mehrheit der wahlberechtigten Manager aufgehoben werden.</li>
 					<li>Wenn eine solche Mehrheit nicht erreicht wird, bleibt die Entscheidung des Commissioners bestehen. <u>Zur Klarstellung: Dies schließt weitere Aktionen des Commissioners gegen denselben Manager oder zum selben Thema nicht aus.</u></li>
 				</ol>
 		</ol>
-		<p><u>Auslegungsbemerkung:</u> <i>Zum Beispiel kann der Commissioner gemäß <a href="#2.6c">Artikel II, Abschnitt 6, Absatz c)</a> entscheiden, dass Manager X aufgrund von illegalem Verhalten (z.B. illegal Lineup) einen Punktabzug für den Spieltag erhält. Diese Entscheidung wird an einem Dienstag um 12:35 Uhr in den Message Boards veröffentlicht. Sechs Manager der Liga (ohne die beteiligten Manager) (mehr als 50%) beantragt beim Commissioner eine erneute Überprüfung oder eine erneute Abstimmung gemäß Artikel II, Abschnitt 5, Absatz b), und zwar vor Ablauf der Frist um 12:35 Uhr am folgenden Dienstag.</i></p>
-		<p><i>Der Commissioner weigert sich, dies noch einmal zu überdenken, und daher findet eine Abstimmung statt. Mehr als zwei Drittel der Manager stimmen dafür, dass die Entscheidung aufgehoben werden soll. Die Entscheidung des Commissioners ist damit offiziell aufgehoben. Der Commissioner entscheidet dann gemäß Artikel II, Abschnitt 6, Absatz e), dass der angeklagte Manager stattdessen mit einer Reduzierung der Waiver-Priority bestraft wird. Nur zwei Manager beantragen dazu eine Überprüfung dieser Entscheidung. Da dies weniger als 50% sind, um einen gültigen Antrag zu stellen, hat diese Entscheidung bestand und der angeklagte Manager wird darauf hin mit einer Reduzierung der Waiver-Priority bestraft.</i></p>
+		<p><u>Auslegungsbemerkung:</u> <i>Zum Beispiel kann der Commissioner gemäß <a href="#2.6c">Artikel II, Abschnitt 6, Absatz c)</a> entscheiden, dass Manager X aufgrund von illegalem Verhalten (z.B. illegal Lineup) einen Punktabzug für den Spieltag erhält. Diese Entscheidung wird an einem Dienstag um 12:35 Uhr in den Message Boards veröffentlicht. Sechs Manager der Liga (ohne die beteiligten Manager) (mehr als 50%) beantragt beim Commissioner eine erneute Überprüfung oder eine erneute Abstimmung gemäß <a href="#2.5b">Artikel II, Abschnitt 5, Absatz b)</a>, und zwar vor Ablauf der Frist um 12:35 Uhr am folgenden Dienstag.</i></p>
+		<p><i>Der Commissioner weigert sich, dies noch einmal zu überdenken, und daher findet eine Abstimmung statt. Mehr als zwei Drittel der Manager stimmen dafür, dass die Entscheidung aufgehoben werden soll. Die Entscheidung des Commissioners ist damit offiziell aufgehoben. Der Commissioner entscheidet dann gemäß <a href="#2.6e">Artikel II, Abschnitt 6, Absatz e)</a>, dass der angeklagte Manager stattdessen mit einer Reduzierung der Waiver-Priority bestraft wird. Nur zwei Manager beantragen dazu eine Überprüfung dieser Entscheidung. Da dies weniger als 50% sind, um einen gültigen Antrag zu stellen, hat diese Entscheidung bestand und der angeklagte Manager wird darauf hin mit einer Reduzierung der Waiver-Priority bestraft.</i></p>
 
-	<h3 id="2.6c" bind:this={twoThree}>Vorgeschriebene Strafen</h3>
+	<h3 bind:this={twoThree}>Vorgeschriebene Strafen</h3>
 		<ol start="6">
 			<li>Im Falle einer illegalen Aktion, können folgende Straf- oder Disziplinarmaßnahmen gegen die Manager erlassen werden:</li>
 				<ol type="a">
 					<li>Eine formelle Warnung;</li>
 					<li>Eine Rückgängigmachung, Änderung oder Ablehnung eines Trades oder Waiver-Picks;</li>
-					<li>Punktabzug für den Spieltag;</li>
+					<li id="2.6c">Punktabzug für den Spieltag;</li>
 					<li>Ein Verfall eines zuvor festgelegten Draft-Picks;</li>
-					<li>Eine Reduzierung der Waiver Priority;</li>
+					<li id="2.6e">Eine Reduzierung der Waiver Priority;</li>
 					<li>Suspendierung oder Rauswurf eines Managers aus der Liga;</li>
 					<li>Abzug oder Verfall des FAAB-Budgets;</li>
 					<li>Andere Maßnahmen, die der Commissioner für angemessen hält.</li>
@@ -253,7 +253,7 @@
             <ol type="a">
                 <li>die Wahl eines Commissioners;</li>
                 <li>Der Betrag des jährlichen FAABs eines Clubs;</li>
-                <li>Änderung an dieser Constitution. Dies kann Folgendes umfassen:</li>
+                <li id="3.2c">Änderung an dieser Constitution. Dies kann Folgendes umfassen:</li>
                     <ol type="i">
                         <li>Die Erweiterung der Liga;</li>
                         <li>Aktualisierung der Ligaeinstellungen und Regeln, wie in Artikel IV definiert; und</li>
@@ -261,7 +261,7 @@
                     </ol> 
             </ol>
     </ol>
-    <p>Absatz a) bis c) bedarf einer einfachen Mehrheit durch eine Abstimmung; Absatzes c) kann bei Bedarf und Bedeutung der Änderung mit einer Zwei-Drittel-Mehrheit festgesetzt werden. Nach Ablauf des Abstimmungsfensters werden alle Stimmen gezählt und eine Entscheidung vom Commissioner gemäß der ihm in Artikel II, Abschnitt 2 Absatz f) erteilten Befugnis getroffen.</p>
+    <p><a href="#3.2">Absatz a) bis c)</a> bedarf einer einfachen Mehrheit durch eine Abstimmung; <a href="#3.2c">Absatz c)</a> kann bei Bedarf und Bedeutung der Änderung mit einer Zwei-Drittel-Mehrheit festgesetzt werden. Nach Ablauf des Abstimmungsfensters werden alle Stimmen gezählt und eine Entscheidung vom Commissioner gemäß der ihm in <a href="#2.2f">Artikel II, Abschnitt 2, Absatz f)</a> erteilten Befugnis getroffen.</p>
 
     <h3 bind:this={threeThree}>Abstimmungen in der Regular Season</h3>
     <ol start="3">
