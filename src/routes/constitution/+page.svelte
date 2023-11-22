@@ -183,20 +183,20 @@
 					<li>welche Präventiv- oder Strafmaßnahmen unter den jeweiligen Umständen für die Handlung oder Transaktion angemessen sind und gegebenenfalls Maßnahmen gegen Manager oder andere Personen zu ergreifen.</li>
 					<li>eine Person zu ernennen, die dem Amt des Commissioners offiziell beigeordnet ist, soweit dies erforderlich ist.</li>
 					<li>Entscheidungen in Bezug auf Regelauslegungen, Verwaltung, Trades oder Disziplinarmaßnahmen treffen, soweit dies erforderlich sein kann.</li>
-					<li>alle Änderungen dieser Verfassung in <a href="#eins">Anhang B "Änderungshistorie"</a> festzuhalten.</li>
+					<li>alle Änderungen dieser Verfassung in <a href="#anhangb">Anhang B "Änderungshistorie"</a> festzuhalten.</li>
 				</ol>
 			<li>Amtszeitbeschränkungen und Wahlen</li>			
 				<ol type="a">
 					<li>Der Commissioner übt sein Amt ohne Mindestdauer aus. Die Manager der Liga haben in jeder Offseason die Möglichkeit, über einen neuen Commissioner abzustimmen.</li>
 					<li>Die Wahl eines Commissioners erfolgt mit einfacher Mehrheit. Jeder Manager hat eine (1) Stimme. Bei Stimmengleichheit findet mindestens einmal wöchentlich eine weitere Wahl statt, bis ein Commissioner gewählt ist.</li>
 					<li>Der Commissioner kann jederzeit (auch in der Season) mit einer Zweidrittel-Mehrheit abgewählt werden. Gleichzeitig muss ein neuer Commissioner mit absoluter Mehrheit gewählt werden. Kommt diese Mehrheit nicht zustande, bleibt der Commissioner bis auf Weiteres im Amt.</li>
-					<li>Der Commissioner ist zu jeder Zeit gleichgestellt mit jedem anderen Manager der Liga. Er hat sich an alle Regeln zu halten, unabhängig der in Artikel II, Abschnitt 2 beschriebenen Sonderrechte.</li>
+					<li>Der Commissioner ist zu jeder Zeit gleichgestellt mit jedem anderen Manager der Liga. Er hat sich an alle Regeln zu halten, unabhängig der in <a href="#2.2">Artikel II, Abschnitt 2</a> beschriebenen Sonderrechte.</li>
 				</ol>
 		</ol>
 
-	<h3 bind:this={twoTwo}>Einschränkungen</h3>
+	<h3 id="2.2" bind:this={twoTwo}>Einschränkungen</h3>
 		<ol start="4">
-			<li>Ungeachtet der Bestimmungen dieses Abschnitts darf der Commissioner keine Maßnahmen ergreifen und keine Änderung dieser Constitution vornehmen, die eine Abstimmung der Manager erfordern, wie in Artikel III, Abschnitt 2 dargelegt.</li>
+			<li>Ungeachtet der Bestimmungen dieses Abschnitts darf der Commissioner keine Maßnahmen ergreifen und keine Änderung dieser Constitution vornehmen, die eine Abstimmung der Manager erfordern, wie in <a href="#3.2">Artikel III, Abschnitt 2</a> dargelegt.</li>
 			<li>Jede ergriffene Maßnahme des Commissioners kann nach folgendem Verfahren wieder aufgehoben werden:</li>			
 				<ol type="a">
 					<li>Manager, die von der Entscheidung betroffen sind, sind nicht berechtigt, an einem Vote zur Aufhebung der -Commissioner-Entscheidung teilzunehmen.</li>
@@ -247,7 +247,7 @@
             </ol>
     </ol>
     
-    <h3 bind:this={threeTwo}>Abstimmungen in der Offseason</h3>
+    <h3 id="3.2" bind:this={threeTwo}>Abstimmungen in der Offseason</h3>
     <ol start="2">
          <li>In jeder Offseason sind die Manager verpflichtet, an Abstimmungen teil zu nehmen, die Folgendes umfassen können:</li>
             <ol type="a">
@@ -579,7 +579,7 @@
 </table>
 
 
-  <h2 id="eins" class="sectionHeading" bind:this={eleven}>Anhang "B": VERSIONSHISTORIE</h2>  
+  <h2 id="anhangb" class="sectionHeading" bind:this={eleven}>Anhang "B": VERSIONSHISTORIE</h2>  
   
   <table border="1">
   <tr>
