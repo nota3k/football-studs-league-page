@@ -579,7 +579,7 @@
 </table>
 
 
-  <h2 id="eins" class="sectionHeading" bind:this={eleven}>Anhang "B": VERSIONSHISTORIE</h2>  
+  <h2 name="eins" class="sectionHeading" bind:this={eleven}>Anhang "B": VERSIONSHISTORIE</h2>  
   
   <table border="1">
   <tr>
