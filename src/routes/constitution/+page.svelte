@@ -183,7 +183,7 @@
 					<li>welche Präventiv- oder Strafmaßnahmen unter den jeweiligen Umständen für die Handlung oder Transaktion angemessen sind und gegebenenfalls Maßnahmen gegen Manager oder andere Personen zu ergreifen.</li>
 					<li>eine Person zu ernennen, die dem Amt des Commissioners offiziell beigeordnet ist, soweit dies erforderlich ist.</li>
 					<li>Entscheidungen in Bezug auf Regelauslegungen, Verwaltung, Trades oder Disziplinarmaßnahmen treffen, soweit dies erforderlich sein kann.</li>
-					<li>alle Änderungen dieser Verfassung in Anhang B "Änderungshistorie" festzuhalten.</li>
+					<li>alle Änderungen dieser Verfassung in <a href="#eins">Anhang B "Änderungshistorie"</a> festzuhalten.</li>
 				</ol>
 			<li>Amtszeitbeschränkungen und Wahlen</li>			
 				<ol type="a">
@@ -579,7 +579,7 @@
 </table>
 
 
-  <h2 class="sectionHeading" bind:this={eleven}>Anhang "B": VERSIONSHISTORIE</h2>  
+  <h2 id="eins" class="sectionHeading" bind:this={eleven}>Anhang "B": VERSIONSHISTORIE</h2>  
   
   <table border="1">
   <tr>
