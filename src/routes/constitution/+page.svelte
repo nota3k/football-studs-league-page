@@ -192,6 +192,12 @@
 					<li>Der Commissioner kann jederzeit (auch in der Season) mit einer Zweidrittel-Mehrheit abgewählt werden. Gleichzeitig muss ein neuer Commissioner mit absoluter Mehrheit gewählt werden. Kommt diese Mehrheit nicht zustande, bleibt der Commissioner bis auf Weiteres im Amt.</li>
 					<li>Der Commissioner ist zu jeder Zeit gleichgestellt mit jedem anderen Manager der Liga. Er hat sich an alle Regeln zu halten, unabhängig der in <a href="#2.2">Artikel II, Abschnitt 2</a> beschriebenen Sonderrechte.</li>
 				</ol>
+			<li>Commissioner und weitere Offizielle</li>
+				<p>Folgende Aufgaben sind unter den Managern verteilt. Alle Positionen können über einen League-Vote verändert werden, wie in <a href="#2.2">Artikel II, Abschnitt 3 festgelegt</a>. </p>
+					<li>Marcus Kizina (Commissioner)</li>
+					<li>Christian Wiedenhöft (Commissioner)</li>
+					<li>Sebastian Böckel (League-Treasurer)</li>
+				
 		</ol>
 
 	<h3 bind:this={twoTwo}>Einschränkungen</h3>
