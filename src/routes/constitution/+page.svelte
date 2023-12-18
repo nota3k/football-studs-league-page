@@ -194,9 +194,11 @@
 				</ol>
 			<li>Commissioner und weitere Offizielle</li>
 				<p>Folgende Aufgaben sind unter den Managern verteilt. Alle Positionen können über einen League-Vote verändert werden, wie in <a href="#2.2">Artikel II, Abschnitt 3 festgelegt</a>. </p>
-					<li>Marcus Kizina (Commissioner)</li>
-					<li>Christian Wiedenhöft (Commissioner)</li>
-					<li>Sebastian Böckel (League-Treasurer)</li>
+					<ol type="a">
+						<li>Marcus Kizina (Commissioner)</li>
+						<li>Christian Wiedenhöft (Commissioner)</li>
+						<li>Sebastian Böckel (League-Treasurer)</li>
+					</ol>
 				
 		</ol>
 
