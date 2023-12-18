@@ -193,7 +193,7 @@
 					<li>Der Commissioner ist zu jeder Zeit gleichgestellt mit jedem anderen Manager der Liga. Er hat sich an alle Regeln zu halten, unabhängig der in <a href="#2.2">Artikel II, Abschnitt 2</a> beschriebenen Sonderrechte.</li>
 				</ol>
 			<li>Commissioner und weitere Offizielle</li>
-				<p>Folgende Aufgaben sind unter den Managern verteilt. Alle Positionen können über einen League-Vote verändert werden, wie in <a href="#2.2">Artikel II, Abschnitt 3 festgelegt</a>. </p>
+				<p>Folgende Aufgaben sind unter den Managern verteilt. Alle Positionen können über einen League-Vote verändert werden, wie in <a href="#2.2">Artikel II, Abschnitt 3</a> festgelegt. </p>
 					<ol type="a">
 						<li>Marcus Kizina (Commissioner)</li>
 						<li>Christian Wiedenhöft (Commissioner)</li>
