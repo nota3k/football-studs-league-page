@@ -309,7 +309,6 @@
                         <li>Week 10: Bench Punkte aus Week 9 (1. vs. 10.; 2. vs. 9; etc.)</li>
                         <li>Week 14: Gesamt-Platzierungen: 1. vs. 2.; 3. vs. 4; etc.</li>
                     </ol>
-				<li>Zusätzlich findet ein imagineres Spiel gegen den League-Median statt. Dabei wird der Mittelwert aus den Punkten des 6. und des 7. eines Spieltags (Median) gebieldet. Liegen die eigenen erzielten Punkte darüber, so erhält man einen weitern Win, liegen sie darunter, so erhält man ein weiteres Loss.</li>	
             </ol>
          <li>Die Scoring-Kategorien und zugehörigen Punkte für die Liga lauten wie folgt:</li>
              <ol type="a">
@@ -379,7 +378,7 @@
     <h3 bind:this={sixTwo}>Verantwortlichkeiten der Manager</h3>
     <ol start="4">
          <li>Manager müssen jederzeit ein komplettes (legal) Team aufstellen.</li>
-         <li>Manager dürfen verletzte Spieler oder IR-Spieler nicht zum Kick-Off in ihrer aktiven Aufstellung belassen. Kick-Off bedeutet, dass mindestens ein Spieler in der aktiven Aufstellung spielt. Ebenso dürfen Spieler, die auf einem IR-Spot sind, nachdem sie den Out oder IR-Status verloren haben, nicht auf diesem Spot zum Kick-Off bleiben.</li>
+         <li>Manager dürfen verletzte Spieler oder IR-Spieler nicht zum Kick-Off in ihrer aktiven Aufstellung belassen. Kick-Off bedeutet, dass der verletzte oder IR-Spieler zum individuellen Spielbeginn nicht im aktiven Roster sein darf. Das gleiche gilt für das Verbleiben eines Spielers auf dem IR-Spot. <i>(Beispiel: Der Status eines Spielers wechselt auf Out. Das Team des Spielers spielt er am Sonntag um 22:30 Uhr. Zu Beginn des Spieles um 19:00 Uhr befindet sich dieser Spieler noch in der aktiven Aufstellung. Dies stellt so lange kein Problem dar, bis das Spiel um 22:30 angepfiffen wird. Erst bis dahin muss er aus der Aufstellung heraus genommen werden.)</i></li>
          <li>Verletzt sich ein Spieler vor einem Spätspiel, oder ist bis dahin der Status noch nicht geklärt, wird die Frist für die Manager zum wechseln des Spielers auf 23 Uhr des Spieltages festgelegt. Ändert sich nach dieser Uhrzeit der Status eines Spieler, so wird der Manager nicht für ein illegal Line-Up verantwortlich gemacht.</li>
          <li>Die Nichteinhaltung der in den Abschnitten 4,5 und 6 festgelegten Verantwortlichkeiten führt dazu, dass der Manager nach Ermessen des Commissioners gemäß Artikel II, Abschnitt 6 bestraft wird und gemäß Artikel II, Abschnitt 5 überprüfbar ist.</li>
          <li>Darüber hinaus, wenn ein Manager für einen Zeitraum von mehr als zwei Wochen inaktiv ist, stellt dies einen Regelbruch im Sinne von Artikel IX dar.</li>
@@ -509,7 +508,7 @@
                             <li>Bye-Week; </li>
                             <li>NFL-Free Agents</li>
                         </ol>
-                 <li><b>Ungültiger Spieler auf IR</b> – Abzug der Durchschnittspunkte des Spielers/der Spieler über die Saison für diesen Spieltag.</li>
+                 <li><b>Ungültiger Spieler auf IR</b> – Abzug von 10 Punkten pro illegalem Spieler.</li>
                  <li>Weitere Strafen können vom Commissioner im League Chat kommuniziert werden. Insbesondere bei Wiederholten Strafen können diese vom Commissioner angepasst und verschärft werden.</li>
         </ol>
     </ol>
@@ -531,60 +530,6 @@
    <p>Der Schatzmeister wird von der Mitgliedern der League auf unbestimmte Zeit gewählt. es ist möglich ein Misstrauensvotum zu jeder Zeit durchzuführen und gleichzeitig einen neuen Schatzmeister zu wählen. Dazu bedarf es einen formlosen Antrag an den Commissioner. Bö wurde am 15.05.2023 zum Schatzmesiter gewählt. 
    Die Aufgaben sind das Eintreiben des jährlichen Beitrags, die Verwaltung und Buchführung der Finanzen, die Genehmigung von Ausgaben und das Auszahlen des benötigten Betrags. Jedes Jahr wird von jedem Manager ein Buy-In Beitrag von 5€ erhoben. Dieses Budget soll für die Gravierung der beiden Trophäen, für eine eventuelle Neuanschaffung dieser und für den Versand an Manager dienen. Schatzmeister sammelt das Geld in der Offseason ein und verwalten es über die gesamte Zeit. Zusätzlich wird jährlch ein schriftlicher Bericht angefertigt.</p>
 
-<table border="1">
-  <tr>
-    <th>Manager</th>
-    <th>2023</th>
-  </tr>
-  <tr>
-    <td>Marcus</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Chris</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Hembes</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Maggi</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Bö</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Ecki</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>David M.</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>David S.</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Nico</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Marten</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Janosch</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Manu</td>
-    <td></td>
-  </tr>
-</table>
 
 
   <h2 id="anhangb" class="sectionHeading" bind:this={eleven}>Anhang "B": VERSIONSHISTORIE</h2>  
@@ -625,6 +570,12 @@
     <td>Überarbeitung der Constitution (FAAB, League-Median, Finanzen)</td>
     <td>Marcus</td>
     <td>04.04.2023</td>
+  </tr>
+  <tr>
+    <td>06</td>
+    <td>Überarbeitung der Constitution (Abschaffung des League Medians), Strafen wurden festgelegt.</td>
+    <td>Marcus</td>
+    <td>13.01.2024</td>
   </tr>
 </table>
     
