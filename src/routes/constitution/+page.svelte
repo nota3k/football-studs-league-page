@@ -575,7 +575,7 @@
     <td>06</td>
     <td>Überarbeitung der Constitution (Abschaffung des League Medians), Strafen wurden festgelegt.</td>
     <td>Marcus</td>
-    <td>13.01.20245</td>
+    <td>13.01.2024</td>
   </tr>
 </table>
     
