@@ -250,8 +250,8 @@
                 <li>David Schwarz – Superdogs</li>
                 <li>Nico – Stay calm and OMAHA!</li>
                 <li>Marten – Rasenrammler Rügen</li>
-                <li>Janosch – Sorenson GOAT</li>
                 <li>Manu – Turned Goff Again</li>
+		<li>Thomas – Eugene mf Krabs $</li>
             </ol>
     </ol>
     
@@ -576,6 +576,12 @@
     <td>Überarbeitung der Constitution (Abschaffung des League Medians), Strafen wurden festgelegt.</td>
     <td>Marcus</td>
     <td>13.01.2024</td>
+  </tr>
+ <tr>
+    <td>07</td>
+    <td>Janosch wurde entfernt. Thomas wurde der Liga hinzugefügt.</td>
+    <td>Marcus</td>
+    <td>09.07.2024</td>
   </tr>
 </table>
     
