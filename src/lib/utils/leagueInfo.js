@@ -276,7 +276,7 @@ export const managers = [
   //     "bio": "Chiefs Fan, schaue fast jedes NFL Spiel inkl. Night Games, vergesse trotzdem jedes Jahr gute RBs zu draften. Kenne eigentlich nur Ecki und David Schwarz",
        "photo": "/managers/Thomas.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2024, // (optional) when did the manager start playing fantasy football
-  //     "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
   //     "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
   //     "rival": {
    //      name: "Ecki", // Can be anything (usually your rival's name)
